@@ -1,0 +1,4 @@
+cn\itrip\common\DtoUtil.class
+cn\itrip\common\RedisAPI.class
+cn\itrip\common\ErrorCode.class
+cn\itrip\common\MD5.class

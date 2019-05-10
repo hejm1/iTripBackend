@@ -1,0 +1,3 @@
+cn\itrip\auth\service\impl\itripUserServiceImpl.class
+cn\itrip\auth\service\itripUserService.class
+cn\itrip\auth\controller\itripUserControllerImpl.class
